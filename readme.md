@@ -6,7 +6,6 @@
 Computers provide people with two main functions. They store content, and they allow its manipulation. Manipulation capabilities are typically bundled in applications, but this paradigm has limits because it locks actions to a fixed set of features. Expert users often have to switch among different applications to get their work done. Command line tools provide more fine grained access to functionality, but offer poor guidance and discovery. As a result, users are often limited in performing actions directly on their content. This problem increases as content and activities are distributed across non-pc computers such as smartphones.
 
 ## Approach
-
 Hush is an attempt to make any conceptually meaningful action available to users in any context, across devices. It consists of four parts.
 
 * A local web server that exposes the computer's file system over HTTP.
@@ -22,4 +21,3 @@ Technically, the system is implemented on top of an existing Linux distribution,
  - edit text files
  - rotate & apply filters to images
  - share a wired internet connection on an ad-hoc WLAN
-
